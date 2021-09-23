@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/vuecli/dist'
+  publicPath: '/new-project/dist'
 }
